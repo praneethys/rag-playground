@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "rag-playground"
+  site-url: "https://praneethys.github.io/rag-playground"
+  description: ""
+  repo-branch: main
+  repo-url: "https://github.com/praneethys/rag-playground"
